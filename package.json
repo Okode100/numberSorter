@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "submodule": "^1.2.1",
+    "tig": "^0.1.43"
+  }
+}
